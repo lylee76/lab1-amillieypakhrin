@@ -11,6 +11,6 @@ function removeCharacters(str, start, count) {
 }
 
 
-console.log(removeCharacters("Hello Arpana", 6, 5));
+console.log(removeCharacters("Hello Amylee", 6, 5));
 console.log(removeCharacters("Scripting Language", 9, 8));
 console.log(removeCharacters("Example", 2, 3));     
