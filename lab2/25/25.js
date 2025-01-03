@@ -1,6 +1,6 @@
 const personAccount = {
-    firstName: "Arpana",
-    lastName: "Kumal",
+    firstName: "Amylee",
+    lastName: "Pakhrin",
     incomes: [
         { description: "Salary", amount: 10000 },
         { description: "Freelance", amount: 2000 }
